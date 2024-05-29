@@ -12,5 +12,5 @@ http://starshare.live:8080/live/Shane123/Shane123/130714.m3u8
 http://starshare.live:8080/live/Shane123/Shane123/130714.m3u8
 #EXTM3U
 
-#EXTINF:-3 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, TSPORTS
+#EXTINF:-4 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, TSPORTS
 http://starshare.live:8080/live/Shane123/Shane123/130714.m3u8
